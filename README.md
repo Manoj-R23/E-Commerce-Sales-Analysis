@@ -52,7 +52,7 @@ Built an interactive Power BI dashboard showing:
 ## 📂 Files in this Repository
 | File | Description |
 |------|-------------|
-| `Ecommerce_Sales_Analysis.ipynb` | Main analysis notebook |
+| `Project1_Ecommerce_Analysis.ipynb` | Main analysis notebook |
 | `Project1_Dashboard.pbix` | Power BI dashboard file |
 | `PowerBI_Dashboard.png` | Dashboard screenshot |
 | `Chart1_Revenue_by_Category.png` | Bar chart |
