@@ -53,8 +53,8 @@ Built an interactive Power BI dashboard showing:
 | File | Description |
 |------|-------------|
 | `Project1_Ecommerce_Analysis.ipynb` | Main analysis notebook |
-| `Project1_Dashboard.pbix` | Power BI dashboard file |
-| `PowerBI_Dashboard.png` | Dashboard screenshot |
+| `project1ecom.pbix' | Power BI dashboard file |
+| `Screenshot 2026-06-06 135940.png` | Dashboard screenshot |
 | `Chart1_Revenue_by_Category.png` | Bar chart |
 | `Chart2_Monthly_Sales_Trend.png` | Line chart |
 | `Chart3_Regional_Sales.png` | Bar chart |
