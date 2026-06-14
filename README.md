@@ -49,15 +49,24 @@ Built an interactive Power BI dashboard showing:
 
 ---
 
+---
+
+## 📊 Power BI Dashboard File
+Due to file size limitations the Power BI Dashboard file (.pbix) 
+is hosted on Google Drive.
+
+[Click here to download Power BI Dashboard](https://drive.google.com/file/d/12MRG-rfgLZajO4DUda93OofyRt8wId9i/view?usp=drive_link)
+
+---
+
 ## 📂 Files in this Repository
 | File | Description |
 |------|-------------|
 | `Project1_Ecommerce_Analysis.ipynb` | Main analysis notebook |
-| `project1ecom.pbix' | Power BI dashboard file |
-| `Screenshot 2026-06-06 135940.png` | Dashboard screenshot |
-| `Chart1_Revenue_by_Category.png` | Bar chart |
-| `Chart2_Monthly_Sales_Trend.png` | Line chart |
-| `Chart3_Regional_Sales.png` | Bar chart |
-| `Chart4_Order_Value_Distribution.png` | Histogram |
-| `Chart5_Review_Score_Distribution.png` | Pie chart |
-| `Chart6_Category_Month_Heatmap.png` | Heatmap |
+| `dashboard.png` | Power BI Dashboard screenshot |
+| `chart1_category_revenue.png` | Bar chart |
+| `chart2_monthly_trend.png` | Line chart |
+| `chart3_regional_sales.png` | Bar chart |
+| `chart4_order_values.png` | Histogram |
+| `chart5_review_scores.png` | Pie chart |
+| `chart6_heatmap.png` | Heatmap |
